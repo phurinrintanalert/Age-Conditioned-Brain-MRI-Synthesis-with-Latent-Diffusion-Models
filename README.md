@@ -1,6 +1,9 @@
 # Age-Conditioned-Brain-MRI-Synthesis-with-Latent-Diffusion-Models
 Synthesizing age-conditioned neonatal brain MRIs using Latent Diffusion Models (LDM) and VAEs in PyTorch
 
+## DataFiles
+Data files can be downloaded via this link: https://drive.google.com/drive/folders/14WBgNmkFd2bSw9_USNIm7wiR-YZ6fjdC?usp=share_link
+
 ## Overview
 This repository contains the implementation of an age-conditioned Latent Diffusion Model (LDM) designed to synthesize realistic 2D axial slices of neonatal brain MRIs. Taking inspiration from the foundational work by Rombach et al. (High-Resolution Image Synthesis with Latent Diffusion Models), this project demonstrates a complete generative AI pipeline from data preprocessing to conditional image generation.
 
